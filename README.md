@@ -1,4 +1,4 @@
-# Null-Vector Execution Loop (NVEL)  
+Null-Vector Execution Loop (NVEL)  
 Метод превращения скуки в двигатель роста
 
 1. Суть в одном предложении:
